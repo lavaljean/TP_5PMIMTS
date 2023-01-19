@@ -1,1 +1,1 @@
-# Dépot git de rendu du tp de Jean Laval et Syméon Getti
+# Dépot git de rendu du tp de Jean Laval et Siméon Getti
